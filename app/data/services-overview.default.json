@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "Thiết Kế Nội Thất",
+      "description": "Khám phá những dự án đẹp mang nguồn cảm hứng cho không gian sắp tới của bạn. Hiểu hơn về chúng tôi. Chúng tôi tự tin vào năng lực sản xuất đa dạng sản phẩm và vật liệu từ đồ gỗ, sản phẩm da, kim khí, sản phẩm nội thất xuất khẩu đạt chuẩn EU",
+      "image": "/images/image-3.webp",
+      "alt": "Thiết Kế Nội Thất",
+      "category": "01",
+      "slug": "thiet-ke-noi-that",
+      "href": "#"
+    },
+    {
+      "id": 2,
+      "title": "Thi công nội thất",
+      "description": "Khám phá những dự án đẹp mang nguồn cảm hứng cho không gian sắp tới của bạn. Hiểu hơn về chúng tôi. Chúng tôi tự tin vào năng lực sản xuất đa dạng sản phẩm và vật liệu từ đồ gỗ, sản phẩm da, kim khí, sản phẩm nội thất xuất khẩu đạt chuẩn EU",
+      "image": "/images/image-3.webp",
+      "alt": "Thi công nội thất",
+      "category": "02",
+      "slug": "thi-cong-noi-that",
+      "href": "#"
+    },
+    {
+      "id": 3,
+      "title": "Thiết kế kiến trúc",
+      "description": "Khám phá những dự án đẹp mang nguồn cảm hứng cho không gian sắp tới của bạn. Hiểu hơn về chúng tôi. Chúng tôi tự tin vào năng lực sản xuất đa dạng sản phẩm và vật liệu từ đồ gỗ, sản phẩm da, kim khí, sản phẩm nội thất xuất khẩu đạt chuẩn EU",
+      "image": "/images/image-3.webp",
+      "alt": "Thiết kế kiến trúc",
+      "category": "03",
+      "slug": "thiet-ke-kien-truc",
+      "href": "#"
+    },
+    {
+      "id": 4,
+      "title": "Xây nhà trọn gói",
+      "description": "Khám phá những dự án đẹp mang nguồn cảm hứng cho không gian sắp tới của bạn. Hiểu hơn về chúng tôi. Chúng tôi tự tin vào năng lực sản xuất đa dạng sản phẩm và vật liệu từ đồ gỗ, sản phẩm da, kim khí, sản phẩm nội thất xuất khẩu đạt chuẩn EU",
+      "image": "/images/image-3.webp",
+      "alt": "Xây nhà trọn gói",
+      "category": "04",
+      "slug": "xay-nha-tron-goi",
+      "href": "#"
+    },
+    {
+      "id": 5,
+      "title": "Công ty quản lý dự án",
+      "description": "Khám phá những dự án đẹp mang nguồn cảm hứng cho không gian sắp tới của bạn. Hiểu hơn về chúng tôi. Chúng tôi tự tin vào năng lực sản xuất đa dạng sản phẩm và vật liệu từ đồ gỗ, sản phẩm da, kim khí, sản phẩm nội thất xuất khẩu đạt chuẩn EU",
+      "image": "/images/image-3.webp",
+      "alt": "Công ty quản lý dự án",
+      "category": "05",
+      "slug": "quan-ly-du-an",
+      "href": "#"
+    }
+  ]
+}

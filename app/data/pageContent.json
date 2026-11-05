@@ -1,0 +1,222 @@
+{
+  "companyValues": [
+    {
+      "number": "01",
+      "title": "Kiến thức, kinh nghiệm, trải nghiệm thi công chất lượng cao",
+      "description": ""
+    },
+    {
+      "number": "02",
+      "title": "Tư vấn chuẩn nhu cầu, bố trí công năng chuyên nghiệp",
+      "description": ""
+    },
+    {
+      "number": "03",
+      "title": "Tinh tế trong giao tiếp các tình huống xảy ra khi thi công",
+      "description": ""
+    },
+    {
+      "number": "04",
+      "title": "Bảo hành, bảo trì nhiệt tình, cấp bách khi có yêu cầu",
+      "description": ""
+    },
+    {
+      "number": "05",
+      "title": "Tiết kiệm các chi phí không thật sự cần thiết",
+      "description": ""
+    },
+    {
+      "number": "06",
+      "title": "Định hướng sản phẩm theo phong cách khách hàng",
+      "description": ""
+    }
+  ],
+  "serviceHighlights": [
+    {
+      "slug": "thiet-ke-noi-that",
+      "title": "Thiết kế nội thất",
+      "description": "WECONS phát triển giải pháp thiết kế nội thất dựa trên nhu cầu sống thực tế, phong cách cá nhân và mức đầu tư của từng gia chủ. Mỗi không gian được nghiên cứu kỹ về công năng, vật liệu, ánh sáng và trải nghiệm sử dụng để tạo nên một tổng thể thẩm mỹ, tiện nghi và bền vững.",
+      "image": "/images/image-3.webp",
+      "alt": "Không gian nội thất phòng khách hiện đại do WECONS thiết kế",
+      "category": "01"
+    },
+    {
+      "slug": "thi-cong-noi-that",
+      "title": "Thi công nội thất",
+      "description": "Khách hàng đã có bộ hồ sơ thiết kế và đang cân nhắc nên giao nó cho ai. WECONS nhận bộ hồ sơ đó, bóc tách báo giá theo từng hạng mục, và cho anh chị biết mỗi hạng mục sẽ được nghiệm thu bằng dụng cụ gì, đạt ngưỡng nào thì mới ký bàn giao.",
+      "image": "/images/image-4.webp",
+      "alt": "Đội ngũ đang thi công hoàn thiện không gian nội thất",
+      "category": "02"
+    },
+    {
+      "slug": "thiet-ke-kien-truc",
+      "title": "Thiết kế kiến trúc",
+      "description": "WECONS đã để lại nhiều dấu ấn trong lĩnh vực thi công xây dựng kiến trúc, với vai trò nhà thầu thiết kế thi công xây dựng nhà trọn gói WECONS dần khẳng định tên tuổi với nhiều dự án kiến trúc nội thất đa phân khúc có độ hoàn thiện cao, thời gian nhanh chóng, đảm bảo các tiêu chuẩn an toàn.",
+      "image": "/images/image-5.webp",
+      "alt": "Phối cảnh nhà ở hiện đại do WECONS thiết kế kiến trúc",
+      "category": "03"
+    },
+    {
+      "slug": "xay-nha-tron-goi",
+      "title": "Xây nhà trọn gói",
+      "description": "Xây nhà trọn gói là lựa chọn hàng đầu của gia chủ khi có ý định làm nhà. Dịch vụ này giúp gia chủ tiết kiệm thời gian, công sức khi chỉ cần làm việc với một đơn vị duy nhất cho toàn bộ quá trình thiết kế, xây dựng nhà. Thông tin dưới đây giúp bạn hiểu rõ về báo giá xây nhà trọn gói chi tiết mới nhất, cùng toàn bộ thông tin cần thiết dành cho chủ đầu tư đang có ý định xây dựng nhà.",
+      "image": "/images/image-6.webp",
+      "alt": "Nhà phố đang được xây dựng và giám sát tại công trường",
+      "category": "04"
+    },
+    {
+      "slug": "quan-ly-du-an",
+      "title": "Công ty quản lý dự án",
+      "description": "Giúp các chủ đầu tư quy hoạch dự án, định hướng thiết kế, chuẩn bị hồ sơ gọi thầu, tư vấn chọn thầu và thiết kế bản vẽ cho toàn dự án. Khi ở giai đoạn thi công công ty quản lý dự án như WECONS sẽ trực tiếp giám sát quản lý các nhà thầu, rà soát tiến độ thông tin các rủi ro tiềm ẩn có thể phát sinh cho chủ đầu tư, tư vấn tài chính pháp lý dự án….",
+      "image": "/images/image-7.webp",
+      "alt": "Không gian phòng họp phục vụ công tác quản lý dự án",
+      "category": "05"
+    }
+  ],
+  "processDetails": [
+    {
+      "title": "Tiếp nhận nhu cầu",
+      "description": "Tìm hiểu loại công trình, mục tiêu sử dụng, địa điểm và định hướng ban đầu của gia chủ."
+    },
+    {
+      "title": "Khảo sát hiện trạng",
+      "description": "Trao đổi về hiện trạng khu đất hoặc công trình và các thông tin cần thiết cho phương án."
+    },
+    {
+      "title": "Tư vấn và lên phương án",
+      "description": "Định hình giải pháp kiến trúc, công năng và phạm vi công việc phù hợp với nhu cầu."
+    },
+    {
+      "title": "Thiết kế và dự toán",
+      "description": "Phát triển hồ sơ và dự toán theo phạm vi, vật liệu và các yêu cầu được thống nhất."
+    },
+    {
+      "title": "Thống nhất triển khai",
+      "description": "Làm rõ hồ sơ, phạm vi công việc và các điều khoản trước khi bắt đầu thi công."
+    },
+    {
+      "title": "Thi công, nghiệm thu và bàn giao",
+      "description": "Tổ chức thi công, theo dõi các mốc công việc, nghiệm thu và bàn giao theo thỏa thuận."
+    }
+  ],
+  "serviceDetailPage": {
+    "process": {
+      "eyebrow": "TỪ Ý TƯỞNG ĐẾN HỒ SƠ",
+      "titleFirstLine": "Quy trình 6 bước",
+      "titleSecondLine": "triển khai dịch vụ",
+      "description": "Lộ trình rõ ràng giúp bạn chủ động theo dõi từng giai đoạn và thống nhất phương án trước khi triển khai.",
+      "steps": [
+        {
+          "title": "Tiếp nhận nhu cầu và tư vấn",
+          "description": "Lắng nghe mong muốn, thói quen sinh hoạt, phong cách yêu thích và ngân sách dự kiến để xác định định hướng phù hợp cho công trình."
+        },
+        {
+          "title": "Báo giá và ký hợp đồng thiết kế",
+          "description": "Thống nhất phạm vi công việc, sản phẩm bàn giao, tiến độ thực hiện và chi phí trước khi bắt đầu."
+        },
+        {
+          "title": "Khảo sát hiện trạng",
+          "description": "Đo đạc, ghi nhận đặc điểm khu đất hoặc công trình và các yếu tố kỹ thuật cần lưu ý trong quá trình thiết kế."
+        },
+        {
+          "title": "Mặt bằng bố trí và concept",
+          "description": "Đề xuất phương án bố trí công năng, giao thông và ngôn ngữ thiết kế để khách hàng duyệt trước khi phát triển chi tiết."
+        },
+        {
+          "title": "Phối cảnh 3D và hồ sơ kỹ thuật",
+          "description": "Hoàn thiện phối cảnh trực quan cùng hồ sơ kỹ thuật, vật liệu và các thông số phục vụ triển khai."
+        },
+        {
+          "title": "Hoàn tất hồ sơ và báo giá thi công",
+          "description": "Bàn giao bộ hồ sơ thống nhất, tư vấn các bước tiếp theo và lập dự toán thi công theo nhu cầu."
+        }
+      ]
+    },
+    "gallery": {
+      "eyebrow": "DẤU ẤN WECONS",
+      "title": "Hình ảnh dự án nổi bật của Wecons",
+      "description": "Tham khảo những không gian được phát triển từ nhu cầu sống thực tế, chỉn chu trong từng chi tiết.",
+      "fallbackCategory": "DỰ ÁN WECONS",
+      "fallbackTitle": "Không gian sống WECONS"
+    },
+    "reasons": {
+      "eyebrow": "GIÁ TRỊ WECONS",
+      "title": "Vì sao chọn WECONS",
+      "items": [
+        {
+          "number": "01",
+          "icon": "fa-solid fa-award",
+          "title": "Kinh nghiệm và chất lượng",
+          "description": "Đội ngũ giàu kinh nghiệm, chú trọng tiêu chuẩn kỹ thuật và độ hoàn thiện trong từng hạng mục."
+        },
+        {
+          "number": "02",
+          "icon": "fa-solid fa-comments",
+          "title": "Tư vấn đúng nhu cầu",
+          "description": "Giải pháp được phát triển theo hiện trạng, mong muốn và mức đầu tư của từng khách hàng."
+        },
+        {
+          "number": "03",
+          "icon": "fa-solid fa-people-arrows-left-right",
+          "title": "Giao tiếp minh bạch",
+          "description": "Thông tin, phương án và thay đổi được trao đổi rõ ràng trong suốt quá trình triển khai."
+        },
+        {
+          "number": "04",
+          "icon": "fa-solid fa-handshake-angle",
+          "title": "Đồng hành và bảo hành",
+          "description": "Hỗ trợ khách hàng trong quá trình thi công, nghiệm thu và chăm sóc sau bàn giao."
+        },
+        {
+          "number": "05",
+          "icon": "fa-solid fa-coins",
+          "title": "Tối ưu chi phí",
+          "description": "Cân đối vật liệu, công năng và phạm vi để đầu tư hiệu quả, hạn chế các khoản phát sinh không cần thiết."
+        },
+        {
+          "number": "06",
+          "icon": "fa-solid fa-pen-ruler",
+          "title": "Phong cách riêng",
+          "description": "Mỗi phương án tôn trọng gu thẩm mỹ và nhịp sống riêng, không áp đặt một công thức thiết kế."
+        }
+      ]
+    },
+    "knowledge": {
+      "eyebrow": "GÓC CHIA SẺ WECONS",
+      "title": "Kiến thức & Kinh nghiệm",
+      "fallbackCategory": "KIẾN THỨC THIẾT KẾ",
+      "fallbackDateLabel": "WECONS"
+    },
+    "estimateTitle": "Dự toán xây nhà",
+    "articles": [
+      {
+        "id": "interior-planning",
+        "title": "Cách bố trí công năng để không gian sống luôn tiện nghi",
+        "image": "/images/image-4.webp",
+        "category": "TƯ VẤN THIẾT KẾ",
+        "date": "2026-10-31"
+      },
+      {
+        "id": "material-guide",
+        "title": "Lựa chọn vật liệu hoàn thiện phù hợp với ngân sách",
+        "image": "/images/image-5.webp",
+        "category": "KINH NGHIỆM",
+        "date": "2026-10-31"
+      },
+      {
+        "id": "lighting-design",
+        "title": "Ánh sáng tự nhiên trong thiết kế nhà ở hiện đại",
+        "image": "/images/image-6.webp",
+        "category": "KIẾN THỨC",
+        "date": "2026-10-31"
+      },
+      {
+        "id": "design-process",
+        "title": "Những điều cần chuẩn bị trước khi thiết kế nội thất",
+        "image": "/images/image-7.webp",
+        "category": "CẨM NANG",
+        "date": "2026-10-31"
+      }
+    ]
+  }
+}

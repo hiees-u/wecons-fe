@@ -1,0 +1,292 @@
+{
+  "hotline": "+84 353 34 93 92",
+  "phone_secondary": "0903006985",
+  "contact_email": "chanh.pth76@gmail.com",
+  "email_support": "chanh.pth76@gmail.com",
+  "address": "148-B Cống Quỳnh, Phường Phạm Ngũ Lão, Quận 1, TP. Hồ Chí Minh",
+  "working_hours": "Thứ 2 - Thứ 7: 8:00 - 17:30",
+  "map_iframe": "https://maps.google.com/maps?q=148-B%20Cong%20Quynh%2C%20Ho%20Chi%20Minh%20City&t=&z=15&ie=UTF8&iwloc=&output=embed",
+  "social_zalo": "https://zalo.me/0903006985",
+  "social_facebook": "https://www.facebook.com/",
+  "social_tiktok": "https://www.tiktok.com/",
+  "social_youtube": "",
+  "logo": "/images/logo.png",
+  "logo_dark": "/images/logo.png",
+  "favicon": "/favicon.ico",
+  "header_cta_text": "Nhận tư vấn",
+  "header_cta_link": "/lien-he#consultation-form",
+  "header_nav": [
+    { "label": "Giới thiệu", "pageHref": "/gioi-thieu" },
+    { "label": "Dịch vụ", "pageHref": "/dich-vu" },
+    { "label": "Mẫu Nhà Đẹp", "pageHref": "/danh-muc-san-pham" },
+    { "label": "Báo giá", "pageHref": "/bao-gia" },
+    { "label": "Bài viết", "pageHref": "/tin-tuc" },
+    { "label": "Liên hệ", "pageHref": "/lien-he" }
+  ],
+  "footer_company_name": "CÔNG TY CỔ PHẦN XÂY DỰNG WECONS",
+  "footer_tax_id": "0305361561",
+  "footer_about_text": "WECONS - Đơn vị thiết kế & thi công xây dựng chuyên nghiệp. Minh bạch pháp lý, chất lượng bền vững.",
+  "footer_copyright": "© 2026 WECONS JSC. Tất cả quyền được bảo lưu.",
+  "footer_explore_links": [
+    { "label": "Giới thiệu", "url": "/gioi-thieu" },
+    { "label": "Dịch vụ", "url": "/dich-vu" },
+    { "label": "Dự án", "url": "/du-an" },
+    { "label": "Sản phẩm", "url": "/danh-muc-san-pham" },
+    { "label": "Bài viết", "url": "/tin-tuc" },
+    { "label": "Liên hệ", "url": "/lien-he" }
+  ],
+  "footer_services_links": [
+    { "label": "Báo giá", "url": "/bao-gia" },
+    { "label": "Quy trình", "url": "/process" },
+    { "label": "Nhận tư vấn", "url": "/lien-he#consultation-form" }
+  ],
+  "site_title": "WECONS - Thiết kế & Thi công xây dựng uy tín",
+  "site_description": "Chuyên gia thiết kế kiến trúc, nội thất & thi công xây dựng trọn gói",
+  "seo_keywords": "thiết kế nội thất, thi công xây dựng, thiết kế kiến trúc, wecons, weconstruction",
+  "seo_og_image": "/images/logo.png",
+  "ahrefs_analytics_key": "1inyAPLurw5U9kqE9BIvuQ",
+  "ahrefs_analytics_enabled": true,
+  "ahrefs_analytics_src": "https://analytics.ahrefs.com/analytics.js",
+  "ahrefs_custom_script": "<script src=\"https://analytics.ahrefs.com/analytics.js\" data-key=\"1inyAPLurw5U9kqE9BIvuQ\" async></script>",
+  "hero_title": "Kiến tạo không gian sống - Vững bền cùng thời gian",
+  "hero_subtitle": "Đồng hành xuyên suốt từ hồ sơ thiết kế đến hoàn thiện, giúp gia chủ an tâm trong từng quyết định.",
+  "hero_banner_image": null,
+  "metrics": [
+    { "value": "17+", "label": "NĂM KINH NGHIỆM (TỪ 2007)" },
+    { "value": "99 TỶ", "label": "VỐN ĐIỀU LỆ" },
+    { "value": "0305361561", "label": "MST / GPKD TP.HCM" },
+    { "value": "100%", "label": "MINH BẠCH PHÁP LÝ" }
+  ],
+  "hero_video_url": "https://admin.wecons.vn/storage/introwecons.mp4",
+  "trust_intro_image": "/images/bg-3.webp",
+  "default_page_banner": "/images/pg.webp",
+  "default_page_banner_mobile": "/images/pg-mobile.webp",
+  "about_banner": "/images/bg-3.webp",
+  "projects_banner": "/images/pg.webp",
+  "services_banner": "/images/pg.webp",
+  "pricing_banner": "/images/pg.webp",
+  "news_banner": "/images/pg.webp",
+  "contact_banner": "/images/pg.webp",
+  "contact_sidebar_image": "/images/image-3.webp",
+  "home_values": [
+    "Thiết kế có chiều sâu",
+    "Thi công minh bạch",
+    "Chất lượng bền vững"
+  ],
+  "about_overview": {
+    "title": "WECONS – Thiết kế và thi công trọn gói uy tín",
+    "description": "Wecons hướng đến trở thành đơn vị thiết kế và thi công nhà ở được khách hàng tin tưởng lựa chọn khi tìm kiếm sự chỉn chu, hiện đại và bền vững trong không gian sống. Chúng tôi mong muốn tạo nên những công trình mang tính cá nhân hóa cao, nơi mỗi gia đình đều có thể tìm thấy sự thoải mái, tiện nghi và giá trị thẩm mỹ dài lâu. Bằng việc liên tục cập nhật xu hướng, ứng dụng công nghệ và nâng cao năng lực đội ngũ, Wecons đặt mục tiêu đóng góp vào sự phát triển của kiến trúc nhà ở hiện đại.",
+    "image": "/images/bg-3.webp"
+  },
+  "about_portfolio": {
+    "title": "Dự án tiêu biểu",
+    "description": "Mỗi công trình là một tác phẩm nghệ thuật kiến trúc chứa đựng tâm huyết của đội ngũ WECONS.",
+    "description_secondary": "Khám phá các công trình biệt thự, nhà phố và tòa nhà đã được bàn giao với độ hoàn thiện cao nhất.",
+    "link": "/du-an",
+    "image": "/images/image-2.webp"
+  },
+  "about_story": {
+    "vision_label": "TẦM NHÌN",
+    "vision_title": "Tầm nhìn chiến lược trong hành trình kiến tạo không gian sống ",
+    "vision_description": "Wecons hướng đến trở thành đơn vị thiết kế và thi công nhà ở được khách hàng tin tưởng lựa chọn khi tìm kiếm sự chỉn chu, hiện đại và bền vững trong không gian sống. Chúng tôi mong muốn tạo nên những công trình mang tính cá nhân hóa cao, nơi mỗi gia đình đều có thể tìm thấy sự thoải mái, tiện nghi và giá trị thẩm mỹ dài lâu. Bằng việc liên tục cập nhật xu hướng, ứng dụng công nghệ và nâng cao năng lực đội ngũ, Wecons đặt mục tiêu đóng góp vào sự phát triển của kiến trúc nhà ở hiện đại.",
+    "vision_image": "/images/imae-home-1.webp",
+    "mission_label": "SỨ MỆNH",
+    "mission_title": "Sứ mệnh mang đến những giá trị bền vững trong thiết kế và thi công nhà ở",
+    "mission_description": "Sứ mệnh của Wecons là kiến tạo những không gian sống tối ưu, kết hợp hài hòa giữa thẩm mỹ và công năng, mang đến trải nghiệm trọn vẹn cho khách hàng. Chúng tôi cam kết minh bạch trong quy trình, tận tâm trong từng chi tiết và luôn lấy nhu cầu của gia chủ làm trọng tâm cho mọi quyết định. Mỗi công trình hoàn thiện là minh chứng cho nỗ lực cải tiến không ngừng, nhằm mang lại những giá trị sống tốt đẹp và bền vững cho cộng đồng.",
+    "mission_image": "/images/image-1.webp"
+  },
+  "company_values": [
+    {
+      "number": "01",
+      "title": "Kiến thức, kinh nghiệm, trải nghiệm thi công chất lượng cao",
+      "description": "Đội ngũ kỹ sư, kiến trúc sư dày dặn kinh nghiệm thực chiến."
+    },
+    {
+      "number": "02",
+      "title": "Tư vấn chuẩn nhu cầu, bố trí công năng chuyên nghiệp",
+      "description": "Tối ưu hóa từng mét vuông sử dụng, khoa học và thẩm mỹ."
+    },
+    {
+      "number": "03",
+      "title": "Tinh tế trong giao tiếp các tình huống xảy ra khi thi công",
+      "description": "Lắng nghe, thấu hiểu và xử lý nhanh chóng mọi phản hồi của khách hàng."
+    },
+    {
+      "number": "04",
+      "title": "Bảo hành, bảo trì nhiệt tình, cấp bách khi có yêu cầu",
+      "description": "Cam kết đồng hành lâu dài, hỗ trợ kỹ thuật 24/7."
+    },
+    {
+      "number": "05",
+      "title": "Tiết kiệm các chi phí không thật sự cần thiết",
+      "description": "Bóc tách dự toán BOQ chính xác, cam kết không phát sinh."
+    },
+    {
+      "number": "06",
+      "title": "Định hướng sản phẩm theo phong cách khách hàng",
+      "description": "Hiện thực hóa phong cách cá nhân độc bản của gia chủ."
+    }
+  ],
+  "service_highlights": [
+    {
+      "title": "Thiết kế nội thất",
+      "description": "WECONS phát triển giải pháp thiết kế nội thất dựa trên nhu cầu sống thực tế, phong cách cá nhân và mức đầu tư của từng gia chủ. Mỗi không gian được nghiên cứu kỹ về công năng, vật liệu, ánh sáng và trải nghiệm sử dụng để tạo nên một tổng thể thẩm mỹ, tiện nghi và bền vững.",
+      "image": "/images/image-3.webp",
+      "alt": "Không gian nội thất phòng khách hiện đại do WECONS thiết kế",
+      "category": "01"
+    },
+    {
+      "title": "Thi công nội thất",
+      "description": "Khách hàng đã có bộ hồ sơ thiết kế và đang cân nhắc nên giao nó cho ai. WECONS nhận bộ hồ sơ đó, bóc tách báo giá theo từng hạng mục, và cho anh chị biết mỗi hạng mục sẽ được nghiệm thu bằng dụng cụ gì, đạt ngưỡng nào thì mới ký bàn giao.",
+      "image": "/images/image-4.webp",
+      "alt": "Đội ngũ đang thi công hoàn thiện không gian nội thất",
+      "category": "02"
+    },
+    {
+      "title": "Thiết kế kiến trúc",
+      "description": "WECONS đã để lại nhiều dấu ấn trong lĩnh vực thi công xây dựng kiến trúc, với vai trò nhà thầu thiết kế thi công xây dựng nhà trọn gói WECONS dần khẳng định tên tuổi với nhiều dự án kiến trúc nội thất đa phân khúc có độ hoàn thiện cao, thời gian nhanh chóng, đảm bảo các tiêu chuẩn an toàn.",
+      "image": "/images/image-5.webp",
+      "alt": "Phối cảnh nhà ở hiện đại do WECONS thiết kế kiến trúc",
+      "category": "03"
+    },
+    {
+      "title": "Xây nhà trọn gói",
+      "description": "Xây nhà trọn gói là lựa chọn hàng đầu của gia chủ khi có ý định làm nhà. Dịch vụ này giúp gia chủ tiết kiệm thời gian, công sức khi chỉ cần làm việc với một đơn vị duy nhất cho toàn bộ quá trình thiết kế, xây dựng nhà. Thông tin dưới đây giúp bạn hiểu rõ về báo giá xây nhà trọn gói chi tiết mới nhất, cùng toàn bộ thông tin cần thiết dành cho chủ đầu tư đang có ý định xây dựng nhà.",
+      "image": "/images/image-6.webp",
+      "alt": "Nhà phố đang được xây dựng và giám sát tại công trường",
+      "category": "04"
+    },
+    {
+      "title": "Công ty quản lý dự án",
+      "description": "Giúp các chủ đầu tư quy hoạch dự án, định hướng thiết kế, chuẩn bị hồ sơ gọi thầu, tư vấn chọn thầu và thiết kế bản vẽ cho toàn dự án. Khi ở giai đoạn thi công công ty quản lý dự án như WECONS sẽ trực tiếp giám sát quản lý các nhà thầu, rà soát tiến độ thông tin các rủi ro tiềm ẩn có thể phát sinh cho chủ đầu tư, tư vấn tài chính pháp lý dự án….",
+      "image": "/images/image-7.webp",
+      "alt": "Không gian phòng họp phục vụ công tác quản lý dự án",
+      "category": "05"
+    }
+  ],
+  "process_steps": [
+    {
+      "title": "Tiếp nhận nhu cầu",
+      "description": "Tìm hiểu loại công trình, mục tiêu sử dụng, địa điểm và định hướng ban đầu của gia chủ."
+    },
+    {
+      "title": "Khảo sát hiện trạng",
+      "description": "Trao đổi về hiện trạng khu đất hoặc công trình và các thông tin cần thiết cho phương án."
+    },
+    {
+      "title": "Tư vấn và lên phương án",
+      "description": "Định hình giải pháp kiến trúc, công năng và phạm vi công việc phù hợp với nhu cầu."
+    },
+    {
+      "title": "Thiết kế và dự toán",
+      "description": "Phát triển hồ sơ và dự toán theo phạm vi, vật liệu và các yêu cầu được thống nhất."
+    },
+    {
+      "title": "Thống nhất triển khai",
+      "description": "Làm rõ hồ sơ, phạm vi công việc và các điều khoản trước khi bắt đầu thi công."
+    },
+    {
+      "title": "Thi công, nghiệm thu và bàn giao",
+      "description": "Tổ chức thi công, theo dõi các mốc công việc, nghiệm thu và bàn giao theo thỏa thuận."
+    }
+  ],
+  "product_detail_fallback": {
+    "story": "Nội dung câu chuyện và giải pháp kiến trúc của mẫu nhà này sẽ được cập nhật theo hồ sơ thiết kế thực tế. WECONS sẵn sàng trao đổi để tìm phương án phù hợp với nhu cầu và khu đất của bạn.",
+    "description": "Thông tin chi tiết về công năng, giải pháp kiến trúc và vật liệu sẽ được xác nhận theo hồ sơ của từng công trình.",
+    "architecture_documents": [
+      "Bản vẽ mặt bằng công năng",
+      "Bản vẽ kiến trúc và phối cảnh 3D",
+      "Bản vẽ kết cấu công trình",
+      "Bản vẽ hệ thống điện, nước, điều hòa và thông gió"
+    ]
+  },
+  "product_detail_by_slug": {
+    "biet-thu-tan-co-dien-thanh-lich": {
+      "title": "Dự án biệt thự nghỉ dưỡng 3 tầng giữa lòng Bình Dương",
+      "title_en": "Three-Storey Resort Villa in Binh Duong",
+      "project_name": "Hoai Duc Villa",
+      "project_name_en": "Hoai Duc Villa",
+      "area": "1000m²",
+      "floors": "3 tầng",
+      "floors_en": "3 floors",
+      "type": "Biệt thự (Villa)",
+      "type_en": "Villa",
+      "year": "2026",
+      "hero_style": "Biệt thự tân cổ điển",
+      "hero_style_en": "Neoclassical villa",
+      "style": "Nội thất Indochine (Indochine Style)",
+      "style_en": "Indochine interior style",
+      "materials": "Gói vật tư chất lượng cao",
+      "materials_en": "Premium-quality materials package",
+      "location": "Bình Dương",
+      "location_en": "Binh Duong",
+      "story": [
+        "Tọa lạc trên khuôn viên rộng lớn 1000m², Hoai Duc Villa là hiện thân của vẻ đẹp hoài niệm vượt thời gian qua giải pháp Thiết kế biệt thự Indochine trên khuôn viên 1000m² – Hoai Duc Villa đầy tinh tế. Sự giao hòa hoàn hảo giữa kiến trúc Pháp cổ điển và nét đẹp văn hóa Á Đông được Wecons thổi hồn vào từng chi tiết, kiến tạo nên một không gian sống sang trọng, xanh mát và đậm đà bản sắc.",
+        "Villa khẳng định vị thế quý tộc ngay từ ánh nhìn đầu tiên nhờ hệ cổng nhôm đúc mạ vàng hoàng gia tinh xảo và các trụ cột ốp đá kiên cố. Điểm nhấn kiến trúc đắt giá nhất của công trình là đại sảnh vòm thông tầng cao vút với vách kính hoa đồng nghệ thuật hoa văn hoa cúc La Mã, đón trọn vẹn ánh sáng tự nhiên và mở rộng tầm nhìn cho phòng khách."
+      ],
+      "story_en": [
+        "Set on a 1,000 m² site, Hoai Duc Villa expresses timeless character through a refined Indochine villa design. Wecons brings together French classical architecture and Asian cultural details to create a distinctive, elegant home surrounded by greenery.",
+        "The villa makes a noble first impression with an intricate gold-finished cast-aluminum gate and robust stone-clad columns. Its grand double-height arched hall features decorative glass with Roman chrysanthemum motifs, bringing natural light into the living room and opening up the view."
+      ],
+      "description": [
+        "Với lợi thế đất 2 mặt tiền rộng và hình dạng vuông vắn, đội ngũ KTS Chất Uy đã tận dụng mọi không gian một cách hợp lý, bố trí các công năng theo nhu cầu đặc biệt của gia chủ. Điểm độc đáo của ngôi nhà chính là tầng 1 được chia thành khu vực kinh doanh và gara, không chỉ giữ nguyên diện tích đất mà còn tạo nên không gian sống sang trọng phù hợp với mọi thành viên trong gia đình.",
+        "Ngôi nhà hiện đại của anh Đức với hệ thống cửa kính đón ánh sáng tự nhiên, kết hợp với rèm cửa để điều chỉnh theo nhu cầu của người sử dụng. Kèm theo đó là việc sử dụng chất liệu nhôm kính với khung viền đen tạo nên nét độc đáo rất riêng, sang trọng cho mặt tiền. Xét về phong thủy ánh sáng tự nhiên nhiều mang đến nguồn năng lượng dương tốt cho sức khỏe.",
+        "Ngoại thất cũng được chú trọng cho mọi người thấy thư giãn, hòa mình với ánh sáng tự nhiên, cây xanh dẫn lối cho không gian trong lành và thu hút tài lộc. Hồ cá Koi điều hòa không khí giảm nhiệt về mùa hè giúp ngôi nhà mát hơn. Nước là nơi tụ khí tụ tài việc bố trí cảnh quan hợp phong thủy cũng được đội ngũ kiến trúc sư quan tâm. Cảm ơn anh đã để đội ngũ KTS Chất Uy kiến tạo cho gia đình anh không gian theo ý tưởng và sự hài hòa trong công năng sử dụng."
+      ],
+      "description_en": [
+        "The wide, square-shaped corner lot allows the architects to use space efficiently and organize the functions around the owner's needs. The ground floor is divided between business use and a garage while maintaining a comfortable home for the family.",
+        "The house uses glazed openings to bring in natural light, with curtains to control it as needed. Dark-framed aluminum glazing gives the facade a distinctive, refined character. From a feng shui perspective, natural light brings positive energy and supports wellbeing.",
+        "The landscape offers a calm outdoor setting with natural light and greenery. A koi pond helps cool the home in summer, while the placement of water and planting is considered as part of the landscape design."
+      ],
+      "feature_images": [
+        {
+          "src": "/images/mau-nha-detail/1.webp",
+          "caption": "Với thiết kế nhà ở kết hợp kinh doanh càng trở nên nổi bật.",
+          "caption_en": "The villa stands out with a design that combines family living and business."
+        },
+        {
+          "src": "/images/mau-nha-detail/5.webp",
+          "caption": "Với thiết kế nhà ở kết hợp kinh doanh càng trở nên nổi bật.",
+          "caption_en": "The villa stands out with a design that combines family living and business."
+        },
+        {
+          "src": "/images/mau-nha-detail/2.webp",
+          "caption": "Với thiết kế nhà ở kết hợp kinh doanh càng trở nên nổi bật.",
+          "caption_en": "The villa stands out with a design that combines family living and business."
+        },
+        {
+          "src": "/images/mau-nha-detail/7.webp",
+          "caption": "Với thiết kế nhà ở kết hợp kinh doanh càng trở nên nổi bật.",
+          "caption_en": "The villa stands out with a design that combines family living and business."
+        }
+      ],
+      "architecture_documents": [
+        "Bản vẽ mặt bằng công năng và phối cảnh 3D ngoại thất",
+        "Bản vẽ chi tiết kiến trúc",
+        "Bản vẽ kết cấu công trình",
+        "Bản vẽ hệ thống ME (Điện – Nước – Điều hòa – Thông gió – An ninh...)"
+      ],
+      "architecture_documents_en": [
+        "Floor plans and 3D exterior perspectives",
+        "Detailed architectural drawings",
+        "Structural drawings",
+        "MEP drawings (electrical, plumbing, air conditioning, ventilation, and security)"
+      ],
+      "documents_note": "Toàn bộ hồ sơ thiết kế công năng các phòng và kiến trúc đều được tư vấn hợp theo Phong thủy và tuổi của chủ đầu tư. Kích thước các phòng, chiều cao nhà và kích thước cửa đều theo kích thước phong thủy.",
+      "documents_note_en": "Functional, room, and architectural design documentation is tailored to the project brief. Room dimensions, building height, and openings are finalized in the project drawings.",
+      "documents_title": "Hồ sơ thiết kế kiến trúc mẫu nhà 3 tầng bao gồm:",
+      "documents_title_en": "Three-storey house architectural design documents include:",
+      "closing_paragraphs": [
+        "Với phương châm “Mỗi công trình kiến trúc là một tác phẩm hoàn mỹ”, các Kiến trúc sư dày dặn kinh nghiệm của Wecons đã không ngừng học hỏi, sáng tạo và tận tâm để tạo ra những công trình không chỉ mang đậm phong cách độc đáo đậm chất riêng mà còn đáp ứng đầy đủ công năng sử dụng của gia chủ. Chúng tôi cam kết sẽ mang tới cho Khách hàng một sự trải nghiệm về không gian sống lý tưởng, đẳng cấp vượt thời gian.",
+        "Đến với kiến trúc Wecons, bạn đang đến gần hơn với ngôi nhà mơ ước, sở hữu không gian sống hoàn mỹ, tuyệt vời. Để nhận được những tư vấn về dịch vụ thiết kế biệt thự sang trọng và đẳng cấp, Quý khách hãy liên hệ ngay với chúng tôi qua số Hotline 0353 34 93 92 để được tư vấn tận tình và nhanh chóng nhất."
+      ],
+      "closing_paragraphs_en": [
+        "Guided by the belief that every architectural project is a complete work of art, WECONS' experienced architects keep learning and creating spaces with a distinctive identity and the functionality each homeowner needs.",
+        "WECONS can help you move closer to your dream home. For advice on a refined villa design, contact us at 0353 34 93 92."
+      ],
+      "cta_description": "Liên hệ ngay với đội ngũ kiến trúc sư WECONS để nhận tư vấn phác thảo mặt bằng và dự toán chi phí tối ưu cho không gian sống của bạn.",
+      "cta_description_en": "Contact the WECONS architecture team for an initial floor-plan consultation and an estimate tailored to your home.",
+      "cta_image": "/images/mau-nha-detail/bg.webp"
+    }
+  }
+}

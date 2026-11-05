@@ -1,0 +1,58 @@
+{
+  "pricingEstimateNotice": "DỮ LIỆU DEMO — Các mức dưới đây chỉ phục vụ kiểm thử giao diện, chưa phải đơn giá hoặc báo giá của WE Construction.",
+  "buildingTypes": [
+    { "value": "townhouse", "label": "Nhà phố" },
+    { "value": "villa", "label": "Biệt thự" },
+    { "value": "garden-house", "label": "Nhà vườn" },
+    { "value": "renovation", "label": "Cải tạo / hoàn thiện" }
+  ],
+  "constructionPackages": [
+    {
+      "value": "structural",
+      "label": "Thi công phần thô",
+      "description": "Mức demo trên mỗi m² diện tích sàn.",
+      "ratePerSqm": 3800000
+    },
+    {
+      "value": "standard",
+      "label": "Xây nhà trọn gói · tiêu chuẩn",
+      "description": "Mức demo trên mỗi m² diện tích sàn.",
+      "ratePerSqm": 7500000
+    },
+    {
+      "value": "premium",
+      "label": "Xây nhà trọn gói · cao cấp",
+      "description": "Mức demo trên mỗi m² diện tích sàn.",
+      "ratePerSqm": 9400000
+    },
+    {
+      "value": "luxury",
+      "label": "Xây nhà trọn gói · sang trọng",
+      "description": "Mức demo trên mỗi m² diện tích sàn.",
+      "ratePerSqm": 11000000
+    }
+  ],
+  "designServiceRate": 250000,
+  "optionalServices": [
+    { "id": "interior", "label": "Định hướng thiết kế nội thất", "ratePerSqm": 180000 },
+    { "id": "landscape", "label": "Định hướng cảnh quan", "ratePerSqm": 90000 }
+  ],
+  "floorCountOptions": [1, 2, 3, 4, 5],
+  "foundationOptions": [
+    { "value": "single", "label": "Móng đơn", "ratio": 0.3 },
+    { "value": "tape", "label": "Móng băng", "ratio": 0.5 },
+    { "value": "pile", "label": "Móng cọc (đài móng)", "ratio": 0.4 },
+    { "value": "raft", "label": "Móng bè", "ratio": 0.7 }
+  ],
+  "roofOptions": [
+    { "value": "corrugated", "label": "Mái tôn", "ratio": 0.15 },
+    { "value": "reinforced", "label": "Mái bê tông cốt thép", "ratio": 0.5 },
+    { "value": "tile-truss", "label": "Mái ngói vì kèo sắt", "ratio": 0.7 },
+    { "value": "tile-concrete", "label": "Mái ngói dán bê tông", "ratio": 1.0 }
+  ],
+  "yardOptions": [
+    { "value": "none", "label": "Không có sân", "ratio": 0 },
+    { "value": "front-only", "label": "Sân trước", "ratio": 0.5 },
+    { "value": "front-back", "label": "Sân trước và sau", "ratio": 0.7 }
+  ]
+}

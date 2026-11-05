@@ -1,0 +1,260 @@
+{
+    "success": true,
+    "message": "Blog categories retrieved successfully",
+    "data": [
+        {
+            "id": 1,
+            "name": "Hoàn thiện nhà thô & nhà liền kề",
+            "parent_id": 0,
+            "description": "Hướng dẫn hoàn thiện nhà liền kề mới bàn giao tại TPHCM: kiểm tra hiện trạng, quy định BQL, dự toán BOQ, chọn vật tư, tiến độ và nghiệm thu.",
+            "status": {
+                "value": "published",
+                "label": "Published"
+            },
+            "author_id": 1,
+            "author_type": "Botble\\ACL\\Models\\User",
+            "icon": null,
+            "order": 0,
+            "is_featured": 0,
+            "is_default": false,
+            "created_at": "2026-10-06T21:40:07.000000Z",
+            "updated_at": "2026-10-30T23:42:28.000000Z",
+            "posts_count": 64,
+            "slugable": {
+                "id": 22,
+                "key": "hoan-thien-nha-tho-nha-lien-ke",
+                "reference_type": "Botble\\Blog\\Models\\Category",
+                "reference_id": 1,
+                "prefix": "news"
+            }
+        },
+        {
+            "id": 2,
+            "name": "Xây nhà trọn gói",
+            "parent_id": 0,
+            "description": "Cách tính giá xây nhà trọn gói tại TPHCM năm 2026: diện tích tính giá, BOQ 11 nhóm chi phí, vật tư, khoản dễ phát sinh và cách so sánh báo giá.",
+            "status": {
+                "value": "published",
+                "label": "Published"
+            },
+            "author_id": 1,
+            "author_type": "Botble\\ACL\\Models\\User",
+            "icon": null,
+            "order": 0,
+            "is_featured": 1,
+            "is_default": false,
+            "created_at": "2026-10-06T21:40:07.000000Z",
+            "updated_at": "2026-10-29T09:10:52.000000Z",
+            "posts_count": 96,
+            "slugable": {
+                "id": 23,
+                "key": "xay-nha-tron-goi",
+                "reference_type": "Botble\\Blog\\Models\\Category",
+                "reference_id": 2,
+                "prefix": "news"
+            }
+        },
+        {
+            "id": 3,
+            "name": "Nhà phố",
+            "parent_id": 0,
+            "description": "Hướng dẫn thiết kế nhà phố TPHCM: bố trí công năng, giếng trời, ánh sáng, thông gió, hồ sơ bản vẽ, dự toán chi phí và cách chọn đơn vị thiết kế.",
+            "status": {
+                "value": "published",
+                "label": "Published"
+            },
+            "author_id": 1,
+            "author_type": "Botble\\ACL\\Models\\User",
+            "icon": null,
+            "order": 0,
+            "is_featured": 0,
+            "is_default": false,
+            "created_at": "2026-10-06T21:40:07.000000Z",
+            "updated_at": "2026-10-29T09:10:52.000000Z",
+            "posts_count": 64,
+            "slugable": {
+                "id": 24,
+                "key": "nha-pho",
+                "reference_type": "Botble\\Blog\\Models\\Category",
+                "reference_id": 3,
+                "prefix": "news"
+            }
+        },
+        {
+            "id": 4,
+            "name": "Biệt thự",
+            "parent_id": 0,
+            "description": "Bảng đơn giá xây dựng phần thô TPHCM 2026 cho Biệt thự, Tòa nhà văn phòng, Khách sạn 5–20 tầng. Hướng dẫn bóc tách khối lượng BOQ chuẩn RICS.",
+            "status": {
+                "value": "published",
+                "label": "Published"
+            },
+            "author_id": 1,
+            "author_type": "Botble\\ACL\\Models\\User",
+            "icon": null,
+            "order": 0,
+            "is_featured": 0,
+            "is_default": false,
+            "created_at": "2026-10-06T21:40:07.000000Z",
+            "updated_at": "2026-10-29T09:10:52.000000Z",
+            "posts_count": 36,
+            "slugable": {
+                "id": 25,
+                "key": "biet-thu",
+                "reference_type": "Botble\\Blog\\Models\\Category",
+                "reference_id": 4,
+                "prefix": "news"
+            }
+        },
+        {
+            "id": 5,
+            "name": "Kinh nghiệm xây dựng",
+            "parent_id": 0,
+            "description": null,
+            "status": {
+                "value": "published",
+                "label": "Published"
+            },
+            "author_id": 1,
+            "author_type": "Botble\\ACL\\Models\\User",
+            "icon": null,
+            "order": 0,
+            "is_featured": 0,
+            "is_default": false,
+            "created_at": "2026-10-21T02:40:28.000000Z",
+            "updated_at": "2026-10-29T09:10:52.000000Z",
+            "posts_count": 104,
+            "slugable": null
+        },
+        {
+            "id": 6,
+            "name": "Quản lý thi công & đánh giá nhà thầu",
+            "parent_id": 0,
+            "description": "Quản lý thi công & đánh giá nhà thầu",
+            "status": {
+                "value": "published",
+                "label": "Published"
+            },
+            "author_id": 1,
+            "author_type": "Botble\\ACL\\Models\\User",
+            "icon": null,
+            "order": 1,
+            "is_featured": 0,
+            "is_default": false,
+            "created_at": "2026-10-23T05:05:34.000000Z",
+            "updated_at": "2026-10-29T09:10:52.000000Z",
+            "posts_count": 80,
+            "slugable": {
+                "id": 110,
+                "key": "quan-ly-thi-cong-danh-gia-nha-thau",
+                "reference_type": "Botble\\Blog\\Models\\Category",
+                "reference_id": 6,
+                "prefix": "news"
+            }
+        },
+        {
+            "id": 7,
+            "name": "khách sạn",
+            "parent_id": 5,
+            "description": "Thiết Kế Khách Sạn 5–15 Tầng TPHCM: Công Năng & Chi Phí - WE Construction",
+            "status": {
+                "value": "published",
+                "label": "Published"
+            },
+            "author_id": 1,
+            "author_type": "Botble\\ACL\\Models\\User",
+            "icon": null,
+            "order": 2,
+            "is_featured": 0,
+            "is_default": false,
+            "created_at": "2026-10-23T05:06:44.000000Z",
+            "updated_at": "2026-10-29T09:10:52.000000Z",
+            "posts_count": 40,
+            "slugable": {
+                "id": 111,
+                "key": "khach-san",
+                "reference_type": "Botble\\Blog\\Models\\Category",
+                "reference_id": 7,
+                "prefix": "news"
+            }
+        },
+        {
+            "id": 8,
+            "name": "Nhà Hàng",
+            "parent_id": 5,
+            "description": "Thiết Kế Thi Công Nhà Hàng TPHCM: Bếp, MEP & Chi Phí - WE Construction",
+            "status": {
+                "value": "published",
+                "label": "Published"
+            },
+            "author_id": 1,
+            "author_type": "Botble\\ACL\\Models\\User",
+            "icon": null,
+            "order": 2,
+            "is_featured": 0,
+            "is_default": false,
+            "created_at": "2026-10-23T05:07:46.000000Z",
+            "updated_at": "2026-10-29T09:10:52.000000Z",
+            "posts_count": 44,
+            "slugable": {
+                "id": 112,
+                "key": "nha-hang",
+                "reference_type": "Botble\\Blog\\Models\\Category",
+                "reference_id": 8,
+                "prefix": "news"
+            }
+        },
+        {
+            "id": 9,
+            "name": "Văn phòng",
+            "parent_id": 5,
+            "description": "Cải Tạo Thẩm Mỹ Viện Nhiều Tầng TPHCM: Chi Phí & Quy Trình - WE Construction",
+            "status": {
+                "value": "published",
+                "label": "Published"
+            },
+            "author_id": 1,
+            "author_type": "Botble\\ACL\\Models\\User",
+            "icon": null,
+            "order": 2,
+            "is_featured": 0,
+            "is_default": false,
+            "created_at": "2026-10-23T05:09:57.000000Z",
+            "updated_at": "2026-10-29T09:10:52.000000Z",
+            "posts_count": 24,
+            "slugable": {
+                "id": 113,
+                "key": "van-phong-va-tham-my-vien",
+                "reference_type": "Botble\\Blog\\Models\\Category",
+                "reference_id": 9,
+                "prefix": "news"
+            }
+        },
+        {
+            "id": 10,
+            "name": "Thẩm Mỹ Viện Nhiều Tầng",
+            "parent_id": 5,
+            "description": "Cải Tạo Thẩm Mỹ Viện Nhiều Tầng TPHCM: Chi Phí & Quy Trình - WE Construction",
+            "status": {
+                "value": "published",
+                "label": "Published"
+            },
+            "author_id": 1,
+            "author_type": "Botble\\ACL\\Models\\User",
+            "icon": null,
+            "order": 2,
+            "is_featured": 0,
+            "is_default": true,
+            "created_at": "2026-10-23T05:11:03.000000Z",
+            "updated_at": "2026-10-29T09:10:52.000000Z",
+            "posts_count": 68,
+            "slugable": {
+                "id": 114,
+                "key": "cai-tao-tham-my-vien-nhieu-tang-tphcm-chi-phi-quy-trinh-we-construction",
+                "reference_type": "Botble\\Blog\\Models\\Category",
+                "reference_id": 10,
+                "prefix": "news"
+            }
+        }
+    ]
+}

@@ -1,0 +1,349 @@
+{
+  "metrics": [
+    { "value": "17+", "label": "NĂM KINH NGHIỆM (TỪ 2007)" },
+    { "value": "99 TỶ", "label": "VỐN ĐIỀU LỆ" },
+    { "value": "0305361561", "label": "MST / GPKD TP.HCM" },
+    { "value": "100%", "label": "MINH BẠCH PHÁP LÝ" }
+  ],
+  "values": [
+    "Thiết kế có chiều sâu",
+    "Thi công minh bạch",
+    "Chất lượng bền vững"
+  ],
+  "services": [
+    {
+      "title": "Thiết kế kiến trúc",
+      "category": "01 / Ý TƯỞNG & THIẾT KẾ",
+      "image": "/images/image-5.webp",
+      "alt": "Không gian kiến trúc nhà ở hiện đại với ánh sáng tự nhiên",
+      "detail": "Từ ý tưởng, mặt bằng công năng đến phối cảnh 3D — mỗi chi tiết được cân nhắc theo nhu cầu sống riêng."
+    },
+    {
+      "title": "Thi công phần thô",
+      "category": "02 / KẾT CẤU & GIÁM SÁT",
+      "image": "/images/image-6.webp",
+      "alt": "Công trình nhà ở đang trong giai đoạn thi công",
+      "detail": "Tổ chức thi công và kiểm soát từng giai đoạn, tạo nền tảng vững chắc cho chất lượng công trình."
+    },
+    {
+      "title": "Xây nhà trọn gói",
+      "category": "03 / HOÀN THIỆN & BÀN GIAO",
+      "image": "/images/image-4.webp",
+      "alt": "Ngôi nhà hiện đại hoàn thiện với không gian sống mở",
+      "detail": "Đồng hành xuyên suốt từ hồ sơ thiết kế đến hoàn thiện, giúp gia chủ an tâm trong từng quyết định."
+    },
+    {
+      "title": "Quản lý dự án",
+      "category": "04 / QUẢN LÝ & GIÁM SÁT",
+      "image": "/images/image-7.webp",
+      "alt": "Không gian nội thất hiện đại với vật liệu tự nhiên",
+      "detail": "Theo dõi tiến độ và phối hợp các hạng mục trong suốt quá trình thực hiện công trình."
+    }
+  ],
+  "projects": [
+    {
+      "idProject": "modern-villa",
+      "title": "Biệt thự hiện đại",
+      "category": "BIỆT THỰ · THIẾT KẾ & THI CÔNG",
+      "image": "/images/pg.webp",
+      "alt": "Biệt thự hiện đại với mặt đứng kính và các khối kiến trúc tối màu",
+      "detail": "Vị trí và diện tích: cập nhật theo hồ sơ dự án"
+    },
+    {
+      "idProject": "contemporary-townhouse",
+      "title": "Nhà phố đương đại",
+      "category": "NHÀ PHỐ · KIẾN TRÚC ĐƯƠNG ĐẠI",
+      "image": "/images/image-1.webp",
+      "alt": "Mặt tiền nhà ở đương đại với cây xanh và vật liệu tự nhiên",
+      "detail": "Vị trí và diện tích: cập nhật theo hồ sơ dự án"
+    },
+    {
+      "idProject": "resort-villa",
+      "title": "Biệt thự nghỉ dưỡng",
+      "category": "BIỆT THỰ · KHÔNG GIAN NGHỈ DƯỠNG",
+      "image": "/images/image-2.webp",
+      "alt": "Kiến trúc biệt thự nghỉ dưỡng hòa cùng cảnh quan xanh",
+      "detail": "Vị trí và diện tích: cập nhật theo hồ sơ dự án"
+    },
+    {
+      "idProject": "minimalist-home",
+      "title": "Nhà ở tối giản",
+      "category": "NHÀ Ở · NGÔN NGỮ TỐI GIẢN",
+      "image": "/images/image-3.webp",
+      "alt": "Không gian nhà ở tối giản với chất liệu gỗ và ánh sáng dịu",
+      "detail": "Vị trí và diện tích: cập nhật theo hồ sơ dự án"
+    },
+    {
+      "idProject": "modern-villa-1",
+      "title": "Biệt thự hiện đại",
+      "category": "BIỆT THỰ · THIẾT KẾ & THI CÔNG",
+      "image": "/images/pg.webp",
+      "alt": "Biệt thự hiện đại với mặt đứng kính và các khối kiến trúc tối màu",
+      "detail": "Vị trí và diện tích: cập nhật theo hồ sơ dự án"
+    },
+    {
+      "idProject": "contemporary-townhouse-1",
+      "title": "Nhà phố đương đại",
+      "category": "NHÀ PHỐ · KIẾN TRÚC ĐƯƠNG ĐẠI",
+      "image": "/images/image-4.webp",
+      "alt": "Mặt tiền nhà ở đương đại với cây xanh và vật liệu tự nhiên",
+      "detail": "Vị trí và diện tích: cập nhật theo hồ sơ dự án"
+    },
+    {
+      "idProject": "resort-villa-1",
+      "title": "Biệt thự nghỉ dưỡng",
+      "category": "BIỆT THỰ · KHÔNG GIAN NGHỈ DƯỠNG",
+      "image": "/images/image-5.webp",
+      "alt": "Kiến trúc biệt thự nghỉ dưỡng hòa cùng cảnh quan xanh",
+      "detail": "Vị trí và diện tích: cập nhật theo hồ sơ dự án"
+    },
+    {
+      "idProject": "minimalist-home-1",
+      "title": "Nhà ở tối giản",
+      "category": "NHÀ Ở · NGÔN NGỮ TỐI GIẢN",
+      "image": "/images/image-6.webp",
+      "alt": "Không gian nhà ở tối giản với chất liệu gỗ và ánh sáng dịu",
+      "detail": "Vị trí và diện tích: cập nhật theo hồ sơ dự án"
+    },
+    {
+      "idProject": "modern-villa-2",
+      "title": "Biệt thự hiện đại",
+      "category": "BIỆT THỰ · THIẾT KẾ & THI CÔNG",
+      "image": "/images/pg.webp",
+      "alt": "Biệt thự hiện đại với mặt đứng kính và các khối kiến trúc tối màu",
+      "detail": "Vị trí và diện tích: cập nhật theo hồ sơ dự án"
+    },
+    {
+      "idProject": "contemporary-townhouse-2",
+      "title": "Nhà phố đương đại",
+      "category": "NHÀ PHỐ · KIẾN TRÚC ĐƯƠNG ĐẠI",
+      "image": "/images/image-7.webp",
+      "alt": "Mặt tiền nhà ở đương đại với cây xanh và vật liệu tự nhiên",
+      "detail": "Vị trí và diện tích: cập nhật theo hồ sơ dự án"
+    },
+    {
+      "idProject": "resort-villa-2",
+      "title": "Biệt thự nghỉ dưỡng",
+      "category": "BIỆT THỰ · KHÔNG GIAN NGHỈ DƯỠNG",
+      "image": "/images/image-2.webp",
+      "alt": "Kiến trúc biệt thự nghỉ dưỡng hòa cùng cảnh quan xanh",
+      "detail": "Vị trí và diện tích: cập nhật theo hồ sơ dự án"
+    },
+    {
+      "idProject": "minimalist-home-2",
+      "title": "Nhà ở tối giản",
+      "category": "NHÀ Ở · NGÔN NGỮ TỐI GIẢN",
+      "image": "/images/image-3.webp",
+      "alt": "Không gian nhà ở tối giản với chất liệu gỗ và ánh sáng dịu",
+      "detail": "Vị trí và diện tích: cập nhật theo hồ sơ dự án"
+    }
+  ],
+  "benefits": [
+    { "title": "Tiếp nhận & khảo sát", "body": "Kiến thức, kinh nghiệm, trải nghiệm thi công chất lượng cao" },
+    { "title": "Thiết kế sơ bộ", "body": "Tư vấn chuẩn nhu cầu, bố trí công năng chuyên nghiệp" },
+    { "title": "Báo giá & ký hợp đồng", "body": "Tinh tế trong giao tiếp các tình huống xảy ra khi thi công" },
+    { "title": "Thi công", "body": "Bảo hành, bảo trì nhiệt tình, cấp bách khi có yêu cầu" },
+    { "title": "Bàn giao & nghiệm thu", "body": "Tiết kiệm các chi phí không thật sự cần thiết" },
+    { "title": "Bảo hành", "body": "Định hướng sản phẩm theo phong cách khách hàng" }
+  ],
+  "collections": [
+    {
+      "title": "Nhà phố",
+      "category": "TỐI ƯU TRÊN TỪNG MÉT VUÔNG",
+      "image": "/images/image-1.webp",
+      "alt": "Nhà phố hiện đại với mặt tiền nhiều lớp",
+      "detail": "Khám phá ý tưởng"
+    },
+    {
+      "title": "Biệt thự hiện đại",
+      "category": "ĐƯỜNG NÉT TINH GIẢN",
+      "image": "/images/pg.webp",
+      "alt": "Biệt thự hiện đại với mái đua và mặt kính lớn",
+      "detail": "Khám phá ý tưởng"
+    },
+    {
+      "title": "Biệt thự tân cổ điển",
+      "category": "NÉT THANH LỊCH VƯỢT THỜI GIAN",
+      "image": "/images/image-2.webp",
+      "alt": "Mặt đứng biệt thự sang trọng trong khung cảnh xanh",
+      "detail": "Khám phá ý tưởng"
+    },
+    {
+      "title": "Nhà vườn",
+      "category": "SỐNG GẦN THIÊN NHIÊN",
+      "image": "/images/image-3.webp",
+      "alt": "Ngôi nhà mở ra khu vườn xanh yên tĩnh",
+      "detail": "Khám phá ý tưởng"
+    }
+  ],
+  "designs": [
+    {
+      "title": "Biệt thự hiện đại với khoảng xanh riêng tư",
+      "slug": "biet-thu-hien-dai-khoang-xanh",
+      "category": "BIỆT THỰ HIỆN ĐẠI",
+      "categorySlug": "biet-thu-hien-dai",
+      "image": "/images/pg.webp",
+      "alt": "Biệt thự hiện đại với hình khối kiến trúc và mặt kính lớn",
+      "detail": "Gợi ý thiết kế"
+    },
+    {
+      "title": "Biệt thự sân vườn đương đại",
+      "slug": "biet-thu-san-vuon-duong-dai",
+      "category": "BIỆT THỰ HIỆN ĐẠI",
+      "categorySlug": "biet-thu-hien-dai",
+      "image": "/images/image-1.webp",
+      "alt": "Không gian biệt thự đương đại kết nối với khu vườn",
+      "detail": "Gợi ý thiết kế"
+    },
+    {
+      "title": "Biệt thự tân cổ điển thanh lịch",
+      "slug": "biet-thu-tan-co-dien-thanh-lich",
+      "category": "BIỆT THỰ TÂN CỔ ĐIỂN",
+      "categorySlug": "biet-thu-tan-co-dien",
+      "image": "/images/image-2.webp",
+      "alt": "Biệt thự thanh lịch giữa cảnh quan nhiều cây xanh",
+      "detail": "Gợi ý thiết kế"
+    },
+    {
+      "title": "Biệt thự mái Nhật cân đối",
+      "slug": "biet-thu-mai-nhat-can-doi",
+      "category": "BIỆT THỰ TÂN CỔ ĐIỂN",
+      "categorySlug": "biet-thu-tan-co-dien",
+      "image": "/images/image-3.webp",
+      "alt": "Ngôi nhà phong cách cổ điển với vật liệu tự nhiên",
+      "detail": "Gợi ý thiết kế"
+    },
+    {
+      "title": "Nhà phố ba tầng đón sáng tự nhiên",
+      "slug": "nha-pho-ba-tang-don-sang",
+      "category": "NHÀ PHỐ",
+      "categorySlug": "nha-pho",
+      "image": "/images/image-4.webp",
+      "alt": "Mặt tiền nhà phố hiện đại với cây xanh",
+      "detail": "Gợi ý thiết kế"
+    },
+    {
+      "title": "Nhà phố tối giản với mặt tiền nhiều lớp",
+      "slug": "nha-pho-toi-gian-mat-tien-nhieu-lop",
+      "category": "NHÀ PHỐ",
+      "categorySlug": "nha-pho",
+      "image": "/images/image-5.webp",
+      "alt": "Nhà phố đương đại với đường nét tối giản",
+      "detail": "Gợi ý thiết kế"
+    },
+    {
+      "title": "Căn hộ hiện đại với không gian mở",
+      "slug": "can-ho-hien-dai-khong-gian-mo",
+      "category": "CĂN HỘ",
+      "categorySlug": "can-ho",
+      "image": "/images/image-6.webp",
+      "alt": "Không gian căn hộ hiện đại với nội thất ấm áp",
+      "detail": "Gợi ý thiết kế"
+    },
+    {
+      "title": "Căn hộ tinh giản, tiện nghi",
+      "slug": "can-ho-tinh-gian-tien-nghi",
+      "category": "CĂN HỘ",
+      "categorySlug": "can-ho",
+      "image": "/images/image-7.webp",
+      "alt": "Nội thất căn hộ tinh giản với ánh sáng tự nhiên",
+      "detail": "Gợi ý thiết kế"
+    },
+    {
+      "title": "Khu nghỉ dưỡng hòa cùng thiên nhiên",
+      "slug": "khu-nghi-duong-hoa-cung-thien-nhien",
+      "category": "HOTEL - RESORT",
+      "categorySlug": "hotel-resort",
+      "image": "/images/image-slider-1.webp",
+      "alt": "Không gian nghỉ dưỡng hướng ra khu vườn xanh",
+      "detail": "Gợi ý thiết kế"
+    },
+    {
+      "title": "Resort đương đại bên triền xanh",
+      "slug": "resort-duong-dai-ben-trien-xanh",
+      "category": "HOTEL - RESORT",
+      "categorySlug": "hotel-resort",
+      "image": "/images/imae-home-1.webp",
+      "alt": "Kiến trúc nghỉ dưỡng đương đại trong cảnh quan xanh",
+      "detail": "Gợi ý thiết kế"
+    },
+    {
+      "title": "Nhà hàng sân vườn thoáng mở",
+      "slug": "nha-hang-san-vuon-thoang-mo",
+      "category": "NHÀ HÀNG - CÀ PHÊ",
+      "categorySlug": "nha-hang-ca-phe",
+      "image": "/images/bg-3.webp",
+      "alt": "Không gian nhà hàng với vật liệu tự nhiên và ánh sáng dịu",
+      "detail": "Gợi ý thiết kế"
+    },
+    {
+      "title": "Quán cà phê mang dấu ấn kiến trúc",
+      "slug": "quan-ca-phe-dau-an-kien-truc",
+      "category": "NHÀ HÀNG - CÀ PHÊ",
+      "categorySlug": "nha-hang-ca-phe",
+      "image": "/images/image-1.webp",
+      "alt": "Không gian quán cà phê hiện đại với nội thất tinh tế",
+      "detail": "Gợi ý thiết kế"
+    },
+    {
+      "title": "Văn phòng hiện đại nhiều ánh sáng",
+      "slug": "van-phong-hien-dai-nhieu-anh-sang",
+      "category": "VĂN PHÒNG",
+      "categorySlug": "van-phong",
+      "image": "/images/image-2.webp",
+      "alt": "Không gian làm việc hiện đại với thiết kế mở",
+      "detail": "Gợi ý thiết kế"
+    },
+    {
+      "title": "Văn phòng linh hoạt, kết nối",
+      "slug": "van-phong-linh-hoat-ket-noi",
+      "category": "VĂN PHÒNG",
+      "categorySlug": "van-phong",
+      "image": "/images/image-3.webp",
+      "alt": "Kiến trúc văn phòng đương đại với cảnh quan xanh",
+      "detail": "Gợi ý thiết kế"
+    }
+  ],
+  "articles": [
+    {
+      "id": "sample-home-budget",
+      "slug": "kinh-nghiem-chuan-bi-ngan-sach-xay-nha",
+      "title": "Kinh nghiệm chuẩn bị ngân sách xây nhà",
+      "category": "LẬP KẾ HOẠCH",
+      "image": "/images/image-1.webp",
+      "alt": "Bản vẽ kiến trúc và vật liệu trong quá trình chuẩn bị thiết kế",
+      "detail": "Những khoản mục cần trao đổi sớm để dự trù ngân sách sát với nhu cầu.",
+      "date": "2026-10-31"
+    },
+    {
+      "id": "sample-construction-costs",
+      "slug": "cac-yeu-to-anh-huong-den-chi-phi-thi-cong",
+      "title": "Các yếu tố ảnh hưởng đến chi phí thi công",
+      "category": "CHI PHÍ & VẬT LIỆU",
+      "image": "/images/image-2.webp",
+      "alt": "Chi tiết công trình xây dựng trong quá trình thi công",
+      "detail": "Quy mô, hiện trạng khu đất và lựa chọn hoàn thiện đều tác động đến dự toán.",
+      "date": "2026-10-31"
+    },
+    {
+      "id": "sample-architecture-style",
+      "slug": "cach-lua-chon-phong-cach-kien-truc",
+      "title": "Cách lựa chọn phong cách kiến trúc",
+      "category": "CẢM HỨNG THIẾT KẾ",
+      "image": "/images/image-3.webp",
+      "alt": "Nội thất nhà ở đương đại với tông màu tự nhiên",
+      "detail": "Bắt đầu từ lối sống và nhu cầu sử dụng để tìm ngôn ngữ kiến trúc phù hợp.",
+      "date": "2026-10-31"
+    },
+    {
+      "id": "sample-finishing-materials",
+      "slug": "nhung-luu-y-khi-chon-vat-lieu-hoan-thien",
+      "title": "Những lưu ý khi chọn vật liệu hoàn thiện",
+      "category": "VẬT LIỆU & HOÀN THIỆN",
+      "image": "/images/image-4.webp",
+      "alt": "Chi tiết hoàn thiện nội thất với vật liệu gỗ và ánh sáng tự nhiên",
+      "detail": "Cân nhắc công năng, độ bền và ngân sách để lựa chọn vật liệu phù hợp cho ngôi nhà.",
+      "date": "2026-10-31"
+    }
+  ]
+}
